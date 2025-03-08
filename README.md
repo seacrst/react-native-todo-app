@@ -1,4 +1,4 @@
 # React Native Todo App
 
-[./app1.jpg](https://github.com/seacrst/react-native-todo-app/blob/main/app1.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/seacrst/react-native-todo-app/main/app2.jpg)
 [app2]("./app2.jpg")
